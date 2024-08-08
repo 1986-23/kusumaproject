@@ -1,2 +1,2 @@
-echo "hello, here i am running shell"
-
+#!/bin/bash
+echo "Hello, world! This script is running inside a Docker container."
